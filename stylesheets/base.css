@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    min-height: 100vh;
+}
+
+.box{
+    position: relative;
+    width: 730px;
+    height: 478px;
+    background-color: white;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(13, 143, 153);
+   
+}
